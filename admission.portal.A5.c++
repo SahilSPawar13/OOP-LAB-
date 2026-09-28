@@ -11,7 +11,7 @@ class student
     public:
     //constructor
     student(int rollNumber, string name, string course)
-    {
+    {         //datamember  //parameter
         this->rollNumber = rollNumber;
         this->name = name;
         this->course = course;
